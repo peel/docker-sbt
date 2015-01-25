@@ -1,4 +1,4 @@
-FROM peelsky/zulu
+FROM peelsky/zulu-openjdk-busybox
 MAINTAINER Piotr Limanowski <plimanowski@gmail.com>
 
 ENV SBT_VERSION 0.13.7
